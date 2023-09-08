@@ -3,8 +3,6 @@
 
 ## Mål for denne Øvingen 
 
-DONITOasdasd
-
 Øvingen er relevant for forelesning #2 og temaet kontinuerlig integrasjon 
 
 * Du skal bli kjent med GitHub Actions, som er helt sentralt for resten av semesteret.
